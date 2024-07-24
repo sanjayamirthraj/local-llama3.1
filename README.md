@@ -9,9 +9,11 @@ Before running the application, ensure that you have the following installed on 
 _Virtual Env recommended but not required_
 
 Install all required packages:
+
 ```pip install streamlit langchain langchain-community ollama chromadb```
 
 **To run the local LLM, run the following command in your terminal of choice:**
+
 ```streamlit run ~/Downloads/local_llama3.1.py or where ever you cloned the file```
 
 **Contact Information**
