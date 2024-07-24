@@ -31,6 +31,7 @@ _Virtual Env recommended but not required_
 ## **Contact Information**
 For any questions or issues, please contact Sanjay Amirthraj.
 
+
 ### Once running, your page should look something like this:
 Have fun!
 ![Screenshot 2024-07-24 at 4 45 46 PM](https://github.com/user-attachments/assets/09b6ff3d-0393-4fa4-9bf6-1135f079795b)
