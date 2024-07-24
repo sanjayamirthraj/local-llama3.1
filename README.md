@@ -34,5 +34,5 @@ For any questions or issues, please contact Sanjay Amirthraj.
 
 ### Once running, your page should look something like this:
 Have fun!
-![Screenshot 2024-07-24 at 4 45 46 PM](https://github.com/user-attachments/assets/09b6ff3d-0393-4fa4-9bf6-1135f079795b)
 
+![Screenshot 2024-07-24 at 5 05 05 PM](https://github.com/user-attachments/assets/62c81d6a-74d7-4c6b-a651-de25a2c6f1f9)
