@@ -23,7 +23,7 @@ _Virtual Env recommended but not required_
 
 ## **To run the local LLM, run the following command in your terminal of choice:**
 
-```streamlit run ~/Downloads/local_llama3.1.py or where ever you cloned the file```
+```streamlit run ~/Downloads/local_llama3.1.py (or wherever you cloned the file)```
 
 
 
