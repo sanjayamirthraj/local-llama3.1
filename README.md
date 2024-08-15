@@ -7,6 +7,7 @@ This repository contains the code and documentation for a local chat application
 Before running the application, ensure that you have the following installed on your machine:
 * Python 3.7 or higher
 * pip (Python package installer)
+* Download and Run Ollama (the application)
 
 
 
